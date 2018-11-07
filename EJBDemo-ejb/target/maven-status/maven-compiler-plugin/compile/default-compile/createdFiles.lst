@@ -1,0 +1,4 @@
+org\tyaa\ejbdemo\entities\Student.class
+org\tyaa\ejbdemo\entities\Student_.class
+org\tyaa\ejbdemo\facades\StudentsFacade.class
+org\tyaa\ejbdemo\facades\AbstractFacade.class
